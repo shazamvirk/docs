@@ -1,8 +1,29 @@
-# React + Vite
+# 🧩 React Notes Board (Draggable Notes App)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a draggable note-taking app built with **React.js** and styled using **Tailwind CSS**. Users can create small note boxes, write text inside them, and drag them freely across the main page — just like sticky notes!
 
-Currently, two official plugins are available:
+## ⚙️ Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🖱️ Custom Drag-and-Drop Logic (No external libraries)
+
+## 🚀 Features
+
+- Create and edit draggable note boxes
+- Responsive layout with modern UI
+- Clean Tailwind-based styling
+- Interactive and dynamic user experience
+
+
+## 🧪 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
+
+2. Install dependencies:
+npm install
+
+npm start
